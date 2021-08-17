@@ -267,6 +267,43 @@
     font-size: 30px;
   }
 }
+@media screen and (max-width: 376px){
+  .contact-top {
+    font-size: unset;
+    line-height: 30px;
+  }
+  .contact-sec {
+    font-size: 10px;
+  }
+  .contact-btn {
+    padding: 10px 40px;
+  }
+  .contact-bottom h3 {
+    font-size: 10px;
+    line-height: 30px;
+  }
+  .concept h1, .about h1, .advance-step h1, .learn h1, .concept-top h1, .about-detail h1, .key h1, .learn-menu-top h1, .benefit-header h1, .value-text h1, .outsider h1, .attendance-step-top h1 {
+    font-size: 20px;
+  }
+  .about-detail {
+    padding: 30px;
+  }
+  .about-detail h2 {
+    font-size: 16px;
+  }
+  .advance-step h2, .concept-top h3, .support-text {
+    font-size: 10px;
+  }
+  .outsider-text {
+    font-size: 14px;
+  }
+  .outsider-top {
+    line-height: 30px;
+  }
+  .concept-top h1, .member h1, .key h1, .learn-menu-top h1, .benefits h1, .value-text h1, .message-wrapper h1, .form-wrapper h1, .question h1, .advance-step h1 {
+    font-size: 20px;
+  }
+}
 
 @media screen and (max-width: 1129px){
   .member-wrapper {
