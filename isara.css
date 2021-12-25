@@ -144,7 +144,7 @@ h1, h2, h3, a {
   background-color: rgb(0, 102, 255);
 }
 .concept {
-  background-image: url(../img/introbottom.jpg);
+  background-image: url(img/introbottom.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -250,7 +250,7 @@ h1, h2, h3, a {
   padding: 10px;
 }
 .advance-step {
-  background-image: url(../img/aboutsecondbg.jpg);
+  background-image: url(img/aboutsecondbg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -371,7 +371,7 @@ h1, h2, h3, a {
   margin: 0 auto;
 }
 .member {
-  background-image: url(../img/teacherbg.jpg);
+  background-image: url(img/teacherbg.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 0 center;
@@ -500,7 +500,7 @@ h1, h2, h3, a {
   text-decoration: underline;
 }
 .learn-menu {
-  background-image: url(../img/classbg.jpg);
+  background-image: url(img/classbg.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -586,7 +586,7 @@ h1, h2, h3, a {
   margin: 0 auto;
 }
 .bangkok {
-  background-image: url(../img/bangkokbg.jpg);
+  background-image: url(img/bangkokbg.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -651,7 +651,7 @@ ul {
   color: #ebb94d;
 }
 .value {
-  background-image: url(../img/specialdetail.jpg);
+  background-image: url(img/specialdetail.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
