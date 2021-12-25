@@ -62,7 +62,7 @@ h1, h2, h3, a {
   border-radius: 20px;
 }
 .fv {
-  background-image: url(../img/main.jpg);
+  background-image: url(img/main.jpg);
   background-size: cover;
   background-position: center top;
   background-repeat: no-repeat;
